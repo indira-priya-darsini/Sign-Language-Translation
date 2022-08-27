@@ -1,4 +1,4 @@
-# Sign-Language-Translation
+# dataset1.csv details
 Mediapipe tracks and provides X,Y,Z coordinates for 21 landmarks in the hand
 
 ![hand_landmarks](https://user-images.githubusercontent.com/85242451/187012804-2e298c69-94f2-4084-b50a-82d6705a9402.png)
